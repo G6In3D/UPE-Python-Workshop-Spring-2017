@@ -1,6 +1,6 @@
 # UPE-Python-Workshop-Spring-2017
 
-**PROJECT 1: GRADES**
+**PROJECT 1: GRADES (AVERAGE)**
 
 -Sample Output:
 
@@ -48,4 +48,32 @@ My name is A. M. Aswindler, and I am running a contest for a $1000 gift certific
 -Concepts: String Operations, Directory Function, File I/O
 
 -Extension: Read an entire list of information from a file, produce files
+
+**PROJECT 3: GEOMETRY**
+
+-Sample Output:
+
+Enter side B: 5
+
+Enter side C: 9
+
+Enter angle a: 60 
+
+Side A:  7.81024967591
+
+Angle b:  33.6704965083
+
+Angle c:  86.3295034917
+
+
+-We will use:
+
+Law of Cosines: A2 = B2 + C2 – 2BCcos(a)
+
+Law of Sines: A/(sin a) = B / (sin b) = C / (sin c)
+
+
+-Concepts: Functions, Math Operations
+
+-Extensions: Convert into Importable Module
 
