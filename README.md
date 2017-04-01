@@ -31,12 +31,16 @@ Jack’s Average: 92.8
 
 
 What is your name? Mr. John Doe
- 
+
+
 Mr. Doe, what is your address? 140 Main Street
+
  
 What is your favorite place to dine near Main Street? The Melting Pot
+
  
 And finally John, what is your city, state and zip code: St. Petersburg, FL 33173
+
  
 Dear John:
 My name is A. M. Aswindler, and I am running a contest for a $1000 gift certificate to The Melting Pot in Miami.  I have wonderful news, you are a finalist in this sweepstakes and may soon be the luckiest person on Main Street!  MR. DOE, DO NOT PASS UP THIS OFFER!  Please fill out your account information at the following site: http://www.swindler.net.  Good luck!
